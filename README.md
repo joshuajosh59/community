@@ -1,8 +1,8 @@
 # community
-# community
 
 
-I have attended  -- hackathons and game jams. -- as a participant, -- as a mentor/volunteer and organised --. Here is a list of all of them:
+
+I have attended hackathons,game jams and Technical Events. As a mentor/volunteer and organised many of them . Here is a list of all of them all:
 
 | Name          | Role          | Info  |
 |:------------- |:------------- |:----- |
@@ -35,6 +35,7 @@ I have attended  -- hackathons and game jams. -- as a participant, -- as a mento
 | ForLoop PortHarcourt |Speaker      | It was great being back at Forloop PH. I spoke to developers how to go from Zero to Heroes. [Link] (http://forloop.africa/events/code-money-from-zero-to-hero-j897v9i7) |
 | Google DevFest Sothern and Eastern Nigeria `17     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies. [Link] (https://2017.devfestse.tech)|
 | Introduction to Docker  | Speaker   | A technical session to show developers how to use containers .|
+| How Technology can help Businesses Grow  | Speaker   | A  session to show Start-up/ Business Growth using Technology.|
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@joshuajsmart](http://twitter.com/joshuajsmart)
 
