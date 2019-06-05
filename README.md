@@ -2,10 +2,14 @@
 
 
 
-I have attended hackathons,game jams and Technical Events. As a mentor/volunteer and organised many of them . Here is a list of all of them all:
+I have attended hackathons,game jams and Technical Events and Internet Related Events. As a mentor/volunteer and organised many of them . Here is a list of all of them all:
 
 | Name          | Role          | Info  |
 |:------------- |:------------- |:----- |
+| ForLoop PortHarcourt |Speaker      | It was great being back at Forloop PH. I spoke to developers how to go from Zero to Heroes. [Link] (http://forloop.africa/events/code-money-from-zero-to-hero-j897v9i7) |
+| Google DevFest Sothern and Eastern Nigeria `17     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies. [Link] (https://2017.devfestse.tech)|
+| Introduction to Docker  | Speaker   | A technical session to show developers how to use containers .|
+| How Technology can help Businesses Grow  | Speaker   | A  session to show Start-up/ Business Growth using Technology.|
 | Google Community Outreach UDSS | Speaker   | This was a community outreach done at the University Demonstration Secondary Schol .  [Google Outreach UDSS](https://)  |
 |Developers Festival Southern and Eastern Nigeria, Uyo 2014    | Oragniser        | This was my first Big Event organised. I have written a [blog post](http://) about my experiences. |
 | Adclass Uniport   | Organiser       |  Google Adclass |
@@ -32,10 +36,6 @@ I have attended hackathons,game jams and Technical Events. As a mentor/volunteer
 | Xamarin Hero Jos| Organiser/Speaker     | Xamarin Hero Jos is was a 2 Days Hackathon allowing developers learn about mobile development with sessions from Xamarin. [Xamarin Hero Jos](https://ti.to/xamarin-hero/jos).  |
 | Xamarin Engage Kaduna | Organser/Speaker    | A free hands-on learning experience session for building Native Mobile Applications using Xamarin.Forms that works on Windows, IOS and Android Phones ! [Xamarin Engage Kaduna](https://ti.to/xamarinengage/kaduna).|
 | Xamarin Dev Days PortHarcourt   | Volunteer    | A full day of diving into codes with cross platform mobile development [link] ( https://ti.to/xamarin/dev-days-port-harcourt-2017/en).|
-| ForLoop PortHarcourt |Speaker      | It was great being back at Forloop PH. I spoke to developers how to go from Zero to Heroes. [Link] (http://forloop.africa/events/code-money-from-zero-to-hero-j897v9i7) |
-| Google DevFest Sothern and Eastern Nigeria `17     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies. [Link] (https://2017.devfestse.tech)|
-| Introduction to Docker  | Speaker   | A technical session to show developers how to use containers .|
-| How Technology can help Businesses Grow  | Speaker   | A  session to show Start-up/ Business Growth using Technology.|
 
 Please feel free to fork this repo and start your own list! If you need any help tweet me: [@joshuajsmart](http://twitter.com/joshuajsmart)
 
