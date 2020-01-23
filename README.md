@@ -7,7 +7,7 @@ I have attended hackathons,game jams and Technical Events and Internet Related E
 | Name          | Role          | Info  |
 |:------------- |:------------- |:----- |
 | ForLoop PortHarcourt |Speaker      | It was great being back at Forloop PH. I spoke to developers how to go from Zero to Heroes. [Link] (http://forloop.africa/events/code-money-from-zero-to-hero-j897v9i7) |
-| Google DevFest Sothern and Eastern Nigeria `17     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies. [Link] (https://2017.devfestse.tech)|
+| Google DevFest Sothern and Eastern Nigeria 2017     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies. [Link] (https://2017.devfestse.tech)|
 | Introduction to Docker  | Speaker   | A technical session to show developers how to use containers .|
 | How Technology can help Businesses Grow  | Speaker   | A  session to show Start-up/ Business Growth using Technology.|
 | Google Community Outreach UDSS | Speaker   | This was a community outreach done at the University Demonstration Secondary Schol .  [Google Outreach UDSS](https://)  |
@@ -19,7 +19,7 @@ I have attended hackathons,game jams and Technical Events and Internet Related E
 |  Hour of Code Kateville, Port Harcourt '15    | Volunteer     | The Hour of Code started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science.      |
 | Hour of Code Providence High School, Enugu. '15    | Volunteer       | The Hour of Code started as a one-hour introduction to computer science, designed to demystify "code", to show that anybody can learn the basics, and to broaden participation in the field of computer science.  |
 | Windows10 upgrade Uniport| Volunteer       | Event to help the community upgrade their Pcs to Windows for free|
-| Google DevFest Sothern and Eastern Nigeria `15     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies.|
+| Google DevFest Sothern and Eastern Nigeria 2015     | Organiser     | A community-runned developer event focused on community building and learning about Google’s technologies.|
 | Interational Womens Day  | Speaker      | I spoke to Women in technology about best case practises and also ways t use github!|
 | Visual Studo Unplugged  University ofBenin    | Organiser      | A session introducing students in tertiary institutions how to develop applications using professional software development tools offered by Microsoft. [Link](http://atanicampusgossip.blogspot.com/2016/05/visual-studio-unplugged-2016.html) |
 | Visual Studo Unplugged University of Uyo       | Organiser       | A session introducing students in tertiary institutions how to develop applications using professional software development tools offered by Microsoft. [Link](http://atanicampusgossip.blogspot.com/2016/05/visual-studio-unplugged-2016.html)  |
@@ -36,7 +36,16 @@ I have attended hackathons,game jams and Technical Events and Internet Related E
 | Xamarin Hero Jos| Organiser/Speaker     | Xamarin Hero Jos is was a 2 Days Hackathon allowing developers learn about mobile development with sessions from Xamarin. [Xamarin Hero Jos](https://ti.to/xamarin-hero/jos).  |
 | Xamarin Engage Kaduna | Organser/Speaker    | A free hands-on learning experience session for building Native Mobile Applications using Xamarin.Forms that works on Windows, IOS and Android Phones ! [Xamarin Engage Kaduna](https://ti.to/xamarinengage/kaduna).|
 | Xamarin Dev Days PortHarcourt   | Volunteer    | A full day of diving into codes with cross platform mobile development [link] ( https://ti.to/xamarin/dev-days-port-harcourt-2017/en).|
+| Nigeria School of Internet Governance, 2019 | Program Cordinator  | Raised funds to be able to transport and carter for 40 Fellows to learn about the Internet Governance and know the roles they play in making sure the Internet remains Safe and secured [link] ( https://sig.ng).|
+| Nigeria Internet Governance Forum, 2019  | Program Manager    | A full day of diving into codes with cross platform mobile development [link] ( https://nigf.org.ng).|
+| Nigeria Youth Internet Governance Forum  | Event Cordinator    | A full day of diving into codes with cross platform mobile development [link] ( https://yigf.org.ng).|
+| West Africa Youth Internet Governance Forum, 2019 - The Gambia| Program Cordinator  | Co-organisation and Program Planning of the West Africa Youth Internet Governance Forum ( Youth are the largest demographic group on the Internet, Yet we are still underrepresented at the Internet Governance Forum. We believe that young people have a high knowledge of the digital world they interact with daily and therefore deserve to play a stronger role in decision making, and policy processes regarding the Internet, using the WAYIGF we are trying our best to make sure the Youths voices count in the IGF process. ) [link] ( https://wayigf.org).|
 
-Please feel free to fork this repo and start your own list! If you need any help tweet me: [@joshuajsmart](http://twitter.com/joshuajsmart)
+| Nigerian Network Operators Group  | Program Assistant    | TNigeria’s foremost capacity-building and human networking activity for ICT personnel and other Internet stakeholders. In thirteen previous editions, the workshops have enabled collaboration and sharing of experience within the Nigerian communication technology ecosystem. Join the interaction with key players in the Internet Industry. ngNOG has also helped to bring global best practices to networking in Nigerian Higher Education. ngNOG Workshop on Network Technology offers training to those who are in the process of developing and enhancing and managing an Internet-connected network with local and international connectivity.   [link] ( https://nog.ng).|
+
+| IGF Youth Summit, 2019 - Berlin, Germany  | Volunteer    | The largest youth gathering to discuss about ley issues that affect the youth in the Internet Governance  [link] ( https://nigf.org.ng).|
+
+
+Please feel free to fork this repo and start your own list! If you need any help tweet me: [@joshualikeness](http://twitter.com/joshualiekenss )
 
 
